@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Knowledge Quiz",
+    "slug": "knowledge-quiz-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#070b12"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#070b12"
+      }
+    }
+  }
+}
